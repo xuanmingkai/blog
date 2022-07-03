@@ -14,7 +14,4 @@ layout: about
 有我的宝宝 @[于海兰](http://weibo.com/u/2284194291) 陪伴
 
 # 联系方式
-[Weibo](http://www.weibo.com/xuanmk) 
-[FaceBook](https://www.facebook.com/xuanmingkai)
-[Google+](https://plus.google.com/113003932132250459078)
-[Github](https://github.com/xuanmingkai)
+[Weibo](http://www.weibo.com/xuanmk) [FaceBook](https://www.facebook.com/xuanmingkai) [Github](https://github.com/xuanmingkai)
